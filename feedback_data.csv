@@ -1,0 +1,22 @@
+timestamp,user_rating,user_review,ai_response,ai_summary,ai_action
+2025-12-15 12:59:19.420379,3,"The product works as expected and offers decent quality for the price. There are some good features, but a few aspects could be improved, especially consistency and overall polish. You might want to look into more heavy duty options if durability is a priority.","Hi there,
+
+Thank you for taking the time to share your thoughts with us. We’re glad to hear that the product meets your expectations and offers good value for the price. Your feedback about consistency, overall polish, and durability is truly valuable—our team is always looking for ways to improve, and insights like yours help guide those efforts.
+
+If you have any specific areas in mind where you think we could enhance the product’s consistency or polish, we’d love to hear more details. Additionally, if you’re interested in exploring heavier‑duty options, please let us know what you need, and we’ll be happy to recommend alternatives that might better suit your requirements.
+
+Thanks again for your honest review. We appreciate your support and are here for any further","A decent, functional product with good features but lacking polish and durability, so consider heavier options if you need more ruggedness.","**Action:** Initiate a focused product‑refinement sprint to improve build consistency and overall polish, and simultaneously prototype a “heavy‑duty” version to address durability concerns. This will directly tackle the reviewer’s main pain points while testing demand for a more robust offering."
+2025-12-15 13:14:20.989513,4,"Overall, it was an okay experience. The food was decent and the place was clean, but nothing really stood out. Service was a bit slow, though the staff was polite. I wouldn’t go out of my way to come back, but I wouldn’t mind stopping by again if I was in the area.","Dear [Customer Name],
+
+Thank you for taking the time to share your thoughts about your recent visit. We’re glad to hear you found the food decent and the restaurant clean, and that our staff made a positive impression with their politeness.
+
+We’re sorry to hear that the service was slower than expected. Your feedback is valuable, and we’re already looking at ways to improve our speed so that future visits are smoother and more enjoyable.
+
+We truly appreciate your honest review. Should you find yourself in the area again, we’d love the opportunity to welcome you back and provide a more memorable experience. If there’s anything specific we can do to make your next visit better, please feel free to let us know.
+
+Thank you again","An average, clean spot with decent food and polite but slow service—nothing memorable, but worth a casual visit if nearby.","**Recommended Action:** Implement a focused “speed‑up service” initiative—e.g., streamline kitchen workflows and adjust staffing during peak times—to reduce wait times and make the dining experience feel more efficient and memorable."
+2025-12-15 14:31:02.338241,4,A childhood favourite. The panacotta is to die for,"Dear [Customer Name],
+
+Thank you so much for taking the time to share your thoughts and for awarding us 4 stars! We're thrilled to hear that our panacotta has become a “childhood favourite” for you and that you find it “to die for.” It’s always wonderful to know that we’re able to bring a little taste of nostalgia and delight to our guests.
+
+If there’s anything we could have done to make your experience a perfect 5‑star one, we’d love to hear your","A beloved childhood treat, with an especially irresistible panna cotta.","**Promote the panacotta as a featured “signature dessert” in your marketing (e.g., menu highlights, social‑media posts, and in‑store signage) to leverage the strong positive feedback and encourage more customers to try it.**"
