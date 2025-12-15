@@ -1,0 +1,4 @@
+Prompt,Accuracy,JSON Validity
+Zero-Shot,0.64,0.95
+Few-Shot,0.57,0.895
+Chain-of-Thought,0.54,0.825
